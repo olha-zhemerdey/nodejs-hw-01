@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "8fe7c73d-5bd4-44ae-9a73-df65e1a80d65",
+    "name": "Israel Schultz-Greenfelder",
+    "phone": "1-786-712-6177 x632",
+    "email": "Clair_Stamm20@hotmail.com",
+    "job": "Dynamic Factors Manager"
+  },
+  {
+    "id": "f53d21dd-177d-4127-b9d7-51be2c8cdbc4",
+    "name": "Edwin Johns Sr.",
+    "phone": "388-497-5795",
+    "email": "Halie48@yahoo.com",
+    "job": "Internal Group Liaison"
+  },
+  {
+    "id": "667f3052-73a9-455e-8165-d2cd6f898359",
+    "name": "Jennie Konopelski",
+    "phone": "350.931.2727",
+    "email": "Leopold40@yahoo.com",
+    "job": "International Marketing Strategist"
+  }
+]
