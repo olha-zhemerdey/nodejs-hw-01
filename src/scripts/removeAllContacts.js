@@ -3,7 +3,7 @@ import fs from 'fs/promises';
 
 const removeContacts = async () => {
     try {
-      await fs.writeFile(PATH_DB, JSON.stringify([], null, 2), 'utf-8');
+      await fs.writeFile(PATH_DB, JSON.stringify([], null, 2), { encoding: 'utf-8'});
       console.log('Contacts are removed successfully');
     } catch (error) {
       console.error('Error during the contact removing process:', error);
